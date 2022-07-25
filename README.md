@@ -22,3 +22,22 @@
      The rate at which the running time increases as a function of input is called rate of growth.
 <img width="365" alt="o" src="https://user-images.githubusercontent.com/78050476/180866333-14976985-3f11-41a9-b41c-a50036ab1412.png">     
 
+
+
+
+
+
+## Types of analysis
+#### Worst Case 
+      -->Defines the input for which the algorithm takes a long time. 
+      -->Input is the one for which the algorithm runs the slowest. 
+
+#### Best case
+       -->Defines the input for which the algorithm takes the least time. 
+       -->Input is the one for which the a lgorithm runs the fastest
+#### Average case
+       -->Provides a predict ion about the ru nning time or the a lgorithm. 
+        -->Assumes that the input is random. 
+        
+   Lower Bound <= Average Time <= Upper Bound     
+
