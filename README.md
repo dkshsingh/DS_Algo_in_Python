@@ -20,3 +20,5 @@
 
 ## Rate Of Growth
      The rate at which the running time increases as a function of input is called rate of growth.
+<img width="365" alt="o" src="https://user-images.githubusercontent.com/78050476/180866333-14976985-3f11-41a9-b41c-a50036ab1412.png">     
+
