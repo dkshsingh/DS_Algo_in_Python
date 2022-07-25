@@ -19,3 +19,4 @@
 ####    Examples: Trees and graphs.      
 
 ## Rate Of Growth
+     The rate at which the running time increases as a function of input is called rate of growth.
