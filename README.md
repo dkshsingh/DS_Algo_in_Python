@@ -12,11 +12,30 @@
             char data; 
       };
       
-### Depending on the o rgan ization of the clements, data structures a rc c lassified into two types: 
+### Depending on the organization of the clements, data structures are classified into two types: 
 #### l) Unear data structures: Elements are accessed in a sequentiaJ order but it is not compubory to store all 
 ####    elements sequentially. Examples: Linked Lists, Stacks alld Queues. 
 #### 2) Non - linear data structures: Elements of this data structure arc stored /accessed in a non-linear order. 
 ####    Examples: Trees and graphs.      
+### Table of Contents
+
+| No. | Questions                                                                                                                                                         |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Time complexity](#what-are-the-possible-ways-to-create-objects-in-javascript)                                         |
+| 2   | [Searching](#what-is-a-prototype-chain)                                                                                                             |
+| 3   | [Sorting Algorithms](#what-is-the-difference-between-call-apply-and-bind)                                                        |
+| 4   | [Array](#what-is-the-difference-between-call-apply-and-bind)                                                        |
+| 5   | [Linked list](#what-is-the-difference-between-call-apply-and-bind)                                                        |
+| 6   | [Stack](#what-is-the-difference-between-call-apply-and-bind)                                                        |
+| 7   | [Queue](#what-is-the-difference-between-call-apply-and-bind)                                                        |
+| 8   | [Tree](#what-is-the-difference-between-call-apply-and-bind)                                                        |
+| 9   | [Graph](#what-is-the-difference-between-call-apply-and-bind)                                                        |
+| 10  | [Hashing](#what-is-the-difference-between-call-apply-and-bind)                                                        |
+| 11  | [Recursion and backtracking](#what-is-the-difference-between-call-apply-and-bind)                                                        |
+
+
+
+
 
 ## Rate Of Growth
      The rate at which the running time increases as a function of input is called rate of growth.
