@@ -25,8 +25,8 @@
 | 2   | [Searching]()                                                                                                             |
 | 3   | [Sorting Algorithms](#)                                                        |
 | 4   | [Array](#)                                                        |
-| 5   | [Linked list](#what-is-the-difference-between-call-apply-and-bind)                                                        |
-| 6   | [Stack](#what-is-the-difference-between-call-apply-and-bind)                                                        |
+| 5   | [Linked list](#)                                                        |
+| 6   | [Stack](#)                                                        |
 | 7   | [Queue](#what-is-the-difference-between-call-apply-and-bind)                                                        |
 | 8   | [Tree](#what-is-the-difference-between-call-apply-and-bind)                                                        |
 | 9   | [Graph](#what-is-the-difference-between-call-apply-and-bind)                                                        |
