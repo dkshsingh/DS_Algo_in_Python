@@ -21,8 +21,8 @@
 
 | No. | Questions                                                                                                                                                         |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [Time complexity](#what-are-the-possible-ways-to-create-objects-in-javascript)                                         |
-| 2   | [Searching](#what-is-a-prototype-chain)                                                                                                             |
+| 1   | [Time complexity]()                                         |
+| 2   | [Searching]()                                                                                                             |
 | 3   | [Sorting Algorithms](#what-is-the-difference-between-call-apply-and-bind)                                                        |
 | 4   | [Array](#what-is-the-difference-between-call-apply-and-bind)                                                        |
 | 5   | [Linked list](#what-is-the-difference-between-call-apply-and-bind)                                                        |
