@@ -23,8 +23,8 @@
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | [Time complexity]()                                         |
 | 2   | [Searching]()                                                                                                             |
-| 3   | [Sorting Algorithms](#what-is-the-difference-between-call-apply-and-bind)                                                        |
-| 4   | [Array](#what-is-the-difference-between-call-apply-and-bind)                                                        |
+| 3   | [Sorting Algorithms](#)                                                        |
+| 4   | [Array](#)                                                        |
 | 5   | [Linked list](#what-is-the-difference-between-call-apply-and-bind)                                                        |
 | 6   | [Stack](#what-is-the-difference-between-call-apply-and-bind)                                                        |
 | 7   | [Queue](#what-is-the-difference-between-call-apply-and-bind)                                                        |
