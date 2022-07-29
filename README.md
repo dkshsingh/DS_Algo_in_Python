@@ -30,8 +30,8 @@
 | 7   | [Queue](#)                                                        |
 | 8   | [Tree](#)                                                        |
 | 9   | [Graph](#)                                                        |
-| 10  | [Hashing](#what-is-the-difference-between-call-apply-and-bind)                                                        |
-| 11  | [Recursion and backtracking](#what-is-the-difference-between-call-apply-and-bind)                                                        |
+| 10  | [Hashing](#)                                                        |
+| 11  | [Recursion and backtracking](#)                                                        |
 
 
 
