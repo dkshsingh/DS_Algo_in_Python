@@ -1,3 +1,5 @@
+ [youtube] https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/search?query=time%20complexity
+
 # Time complexity of For loop 
     for(i=0;i<n;i++)          ----->  O(n)
     for(i=0;i<n;i=i+2)        ----->  n/2*O(n)
