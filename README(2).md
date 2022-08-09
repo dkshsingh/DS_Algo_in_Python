@@ -1,4 +1,6 @@
  [youtube] https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/search?query=time%20complexity
+ 
+ [time complexity and space complexity] https://lnkd.in/dJ7m5-bu
 
 # Time complexity of For loop 
     for(i=0;i<n;i++)          ----->  O(n)
